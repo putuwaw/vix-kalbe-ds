@@ -27,7 +27,7 @@ fonttools==4.42.1
 fqdn==1.5.1
 idna==3.4
 ipykernel==6.25.1
-ipython==8.14.0
+ipython==8.18.0
 isoduration==20.11.0
 jedi==0.19.0
 Jinja2==3.1.2
